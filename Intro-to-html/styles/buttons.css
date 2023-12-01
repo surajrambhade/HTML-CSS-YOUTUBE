@@ -1,0 +1,70 @@
+
+    .sub-btn{
+      background-color: rgb(202, 0, 0);
+      color: yellow;
+      border: none;
+      height: 36px;
+      width: 105px;
+      border-radius: 3px;
+      cursor: pointer;
+      margin-right: 18px ;
+      transition: opacity 0.15s;
+    }
+    .sub-btn:hover{
+      /* background-color: gold; */
+      opacity: 0.8;
+    }
+  
+    .sub-btn:active{
+      opacity: 0.5;
+  
+    }
+  
+    .join-btn{
+      background-color: rgb(255, 255, 255);
+      border-color: blue;
+      border-style: solid;
+      border-width: 1px;
+      color: blue;
+  
+      border-radius: 5px;
+      cursor: pointer;
+      margin-right: 10px;
+      transition: background-color 0.15s ,
+                  color 0.15s;
+      padding-left: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 20px;
+      vertical-align: top;
+    }
+  
+    .join-btn:hover{
+      background-color: blue ;
+      color: white;
+    }
+  
+    .join-btn:active{
+      opacity: 0.7;
+    }
+  
+  
+    .twt-btn{
+      background-color: rgb(29, 155, 240);
+      color: wheat;
+      border: none;
+      height: 36px;
+      width: 80px;
+      border-radius: 30px;
+      font-weight: bold;
+      font-size: 15px;
+      cursor: pointer;
+      transition: box-shadow 0.15s;
+     
+  
+    }
+    .twt-btn:hover{
+       /* box-shadow:  5px 5px 5px rgba(red, green, blue, 0.15); */
+       box-shadow:  5px 5px 5px gold;
+    }
+ 

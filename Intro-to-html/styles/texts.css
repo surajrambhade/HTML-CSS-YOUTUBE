@@ -1,0 +1,56 @@
+
+    p{
+      font-family: Arial;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    .video-title{
+      
+      font-size: 18px;
+      font-weight: bold;
+      font-style: italic;
+      width: 300px;
+      line-height: 24px;
+      margin-bottom: 5px;
+    }
+    .vid-stats{
+      
+      font-size: 14px;
+      color: gray;
+      margin-top: 0px;
+      margin-bottom: 20px;
+    }
+    
+    .vid-auth{
+      color: gray;
+      font-size: 14px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    
+    .vid-des{
+      color: gray;
+      font-size: 14px;
+      width: 300;
+      line-height: 22px;
+      margin-top: 0px;
+      margin-bottom: 100px;
+    
+    }
+    .suraj-text{
+      margin-bottom: 50px;
+      font-size: 14px;
+      background-color: red;
+      text-align: center;
+      color: yellow;
+      padding-top: 18px;
+      padding-bottom: 18px;
+    }
+    .s-example{
+      color: white;
+    }
+    .s-example:hover{
+      text-decoration: underline;
+      cursor: pointer;
+    }
+   
